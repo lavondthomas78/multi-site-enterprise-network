@@ -93,6 +93,19 @@ This repository includes the working Cisco Packet Tracer project along with scre
 - Main-campus-to-remote-network connectivity testing
 
 The Cisco Packet Tracer `.pkt` file is included so the network topology and configuration can be examined directly in Packet Tracer.
+### Validation Evidence
+
+Detailed screenshots and verification results are available in the [Network Validation Evidence](evidence/) directory.
+
+The evidence includes:
+
+- Complete multi-site network topology
+- VLAN and 802.1Q trunk verification
+- Router-on-a-stick configuration
+- DHCP client addressing
+- RIPv2 dynamic routing verification
+- Inter-VLAN host connectivity
+- Main-campus-to-remote-site connectivity
 
 ## Lessons Learned
 
