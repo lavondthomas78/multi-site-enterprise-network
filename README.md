@@ -1,4 +1,4 @@
-# multi-site-enterprise-network
+# # multi-site-enterprise-network
 ## Overview
 
 This project demonstrates the design and implementation of a multi-site enterprise network using Cisco Packet Tracer. The network was built to support multiple departmental VLANs at the main campus, centralized DHCP addressing, inter-VLAN communication, and routed connectivity to remote networks.
