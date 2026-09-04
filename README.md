@@ -19,7 +19,7 @@ The project was validated through Cisco IOS commands and end-device connectivity
 - Multi-site network communication
 - Cisco IOS configuration and verification
 - End-to-end ICMP connectivity testing
-- ## Network Architecture
+  ## Network Architecture
 
 The network uses a multi-site architecture consisting of a main campus and remote network locations connected through routed WAN links.
 
@@ -76,7 +76,7 @@ Rather than representing these controls as implemented features, they are docume
 - Create a dedicated management VLAN for network infrastructure.
 - Review device access and management permissions using the principle of least privilege.
 - Test security controls to verify that authorized traffic is permitted while unauthorized traffic is denied.
-- ## Project Files & Evidence
+  ## Project Files & Evidence
 
 This repository includes the working Cisco Packet Tracer project along with screenshots collected during configuration verification and connectivity testing.
 
