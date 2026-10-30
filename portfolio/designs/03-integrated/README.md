@@ -4,6 +4,8 @@
 
 ![Completed integrated topology](images/final-intersite-topology.png)
 
+[Download the completed integrated Packet Tracer project](Royal-1-InterSite-Lab.pkt). The owner-supplied binary is included unchanged; results below come from project-session evidence and owner confirmation.
+
 ## Integration outcome
 
 Two independently completed network designs were joined into one multi-site Packet Tracer lab supporting cross-site IP connectivity, HTTPS in both directions, shared mail with confirmed replies, and intersite phone calls.

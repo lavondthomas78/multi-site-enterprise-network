@@ -27,6 +27,6 @@ The original Enterprise network was connected to the simulated cloud/provider se
 
 ## Original artifacts
 
-The standalone topology screenshot is included above. The corresponding final `.pkt` binary still needs to be attached; the supplied `.pkt.png` file is an image, not an executable Packet Tracer project. Existing older files are not substituted for this final original.
+[Download the Packet Tracer project](Royal-Enterprise-Campus.pkt). Supplied by the owner as `Royal-Technology-Solutions-Enterprise-Network(1).pkt`; the repository copy has a descriptive name. Its bytes are unchanged, and its original topology screenshot appears above. No new simulator execution is claimed.
 
 [Back to portfolio](../../README.md)

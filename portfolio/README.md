@@ -24,7 +24,17 @@ Two independently completed network designs became one integrated campus, branch
 | 2 | Enterprise campus | Four-floor topology, OSPF core, /26 VLANs, HSRP gateways, services and voice | [Enterprise](designs/02-enterprise/README.md) |
 | 3 | Integrated Intersite-Lab | Combine both networks; add Enterprise firewall and edge router; validate cross-site services | [Integrated design](designs/03-integrated/README.md) |
 
-All three screenshots are actual Packet Tracer captures supplied by the project owner. The original campus/branch capture shows `Royal Enterprise network.pkt`; the original Enterprise capture shows `Royal-Technology-Solutions-Enterprise-Network.pkt`; the integrated capture shows `Royal-1-InterSite-Lab.pkt`. These are screenshots of the files, not the `.pkt` files themselves. The three corresponding final project binaries are still pending attachment; an older project file and evidence remain in the repository.
+All three screenshots are actual Packet Tracer captures supplied by the project owner. The original campus/branch capture shows `Royal Enterprise network.pkt`; the original Enterprise capture shows `Royal-Technology-Solutions-Enterprise-Network.pkt`; the integrated capture shows `Royal-1-InterSite-Lab.pkt`. All three matching owner-supplied `.pkt` projects are included below. Earlier repository project files and evidence remain as historical material.
+
+## Download the three Packet Tracer projects
+
+| Design | Project |
+|---|---|
+| 1 — Royal campus and branch | [Royal-Campus-Branch.pkt](designs/01-campus-branch/Royal-Campus-Branch.pkt) |
+| 2 — Enterprise campus | [Royal-Enterprise-Campus.pkt](designs/02-enterprise/Royal-Enterprise-Campus.pkt) |
+| 3 — Integrated Intersite-Lab | [Royal-1-InterSite-Lab.pkt](designs/03-integrated/Royal-1-InterSite-Lab.pkt) |
+
+Use GitHub's **Download raw file** control to download a project, then open it in Cisco Packet Tracer. Files are preserved unchanged as supplied. They were not reopened in Packet Tracer during packaging; functional evidence comes from the project session and final owner confirmation.
 
 ## What I implemented
 

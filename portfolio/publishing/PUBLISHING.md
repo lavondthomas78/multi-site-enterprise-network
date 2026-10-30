@@ -1,27 +1,22 @@
-# Publishing preparation
+# Portfolio release notes
 
-## Suggested repository
+Repository: `lavondthomas78/multi-site-enterprise-network`
 
-Existing repository: `lavondthomas78/multi-site-enterprise-network`  
-Description: Three-stage Cisco Packet Tracer portfolio: campus/branch, Enterprise campus, and integrated multi-site network with ASA firewalls, OSPF, HSRP, web, email, and voice.
+## Included
 
-## Ready in this package
+- Three design pages with original campus/branch, original Enterprise, and integrated Intersite-Lab screenshots.
+- All three matching `.pkt` files, preserved byte-for-byte as supplied by the owner.
+- Detailed route, OSPF, firewall, addressing, validation, and troubleshooting documentation.
+- LinkedIn and resume drafts.
 
-- Main portfolio README with the three-design progression.
-- Separate design pages and actual screenshots of both originals and the final integrated topology.
-- Detailed operational record with addressing, routes, ACLs, and recovery history.
-- LinkedIn post and resume entry drafts.
+The owner explicitly authorized publication of all three binaries to this public repository. No credential sanitization or new simulator execution is claimed. Functional validation comes from captured session results and the owner's final completion report. LinkedIn text remains a draft and has not been posted.
 
-## Still needed before a complete three-design release
+## File inventory
 
-1. Attach the two final original `.pkt` files. Both original topology screenshots are now included.
-2. Attach the final integrated `.pkt` file corresponding to the completed October 29 topology.
-3. Use publishing copies of `.pkt` files: replace real or reused passwords with dedicated lab values. Hashed/encrypted password lines can still contain credential material. Do not publish unreviewed full console transcripts.
-4. The GitHub connection is confirmed. This portfolio is being proposed under `portfolio/` in the existing repository; approved project files can be added under the relevant design folders.
-5. Open the published README and verify the screenshot and document links. Add the actual repository URL to the LinkedIn draft and resume.
+| Repository file | Original filename |
+|---|---|
+| `designs/01-campus-branch/Royal-Campus-Branch.pkt` | `Royal Enterprise network.pkt` |
+| `designs/02-enterprise/Royal-Enterprise-Campus.pkt` | `Royal-Technology-Solutions-Enterprise-Network(1).pkt` |
+| `designs/03-integrated/Royal-1-InterSite-Lab.pkt` | `Royal-1-InterSite-Lab.pkt` |
 
-This portfolio addition contains no new `.pkt` binaries. Its three topology screenshots were supplied by the owner. The technical record is an excerpt-based reconstruction, not a complete device backup. This portfolio is staged for a GitHub draft pull request. The LinkedIn text remains an unpublished draft.
-
-## Saving the completed lab
-
-On modified IOS routers/switches, save the running configuration using `copy running-config startup-config` or `write memory`. On the ASAs use `write memory`. Save the final `.pkt` file with a distinct completed version name and retain the earlier working originals.
+Earlier root-level project files remain historical artifacts; use the links in each design page for this three-stage portfolio.

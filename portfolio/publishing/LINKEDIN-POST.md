@@ -16,9 +16,10 @@ This started as coursework and grew into something I enjoy building in my own ti
 
 I’m proud of the progress—and of having a finished project I can explain and demonstrate.
 
-I’ll share the GitHub walkthrough with the two original designs and the integrated result once the project files are packaged.
+Project walkthrough, original designs, and integrated result:
+https://github.com/lavondthomas78/multi-site-enterprise-network/tree/main/portfolio
 
 #NetworkEngineering #Cisco #PacketTracer #Networking #ITInfrastructure
 
 ---
-Publishing note: attach the confirmed screenshots in this order: original campus/branch, original Enterprise, integrated topology. Replace the final GitHub sentence with the verified repository URL once published. This draft has not been posted.
+Publishing note: attach the screenshots in this order: original campus/branch, original Enterprise, integrated topology. This draft has not been posted.

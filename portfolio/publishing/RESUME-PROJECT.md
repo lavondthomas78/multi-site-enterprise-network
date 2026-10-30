@@ -2,7 +2,8 @@
 
 **Royal Technology Solutions — Multi-Site Network Design & Integration**  
 Cisco Packet Tracer | Cisco IOS | ASA | OSPF | VLANs | HSRP | VoIP  
-Completed October 2026
+Completed October 2026  
+Portfolio: https://github.com/lavondthomas78/multi-site-enterprise-network/tree/main/portfolio
 
 - Integrated two independently completed network designs into a campus, branch, and Enterprise lab supporting intersite web, email, voice, and endpoint connectivity.
 - Added an ASA 5506-X perimeter firewall and Cisco 2911 edge router; configured /30 transit networks, static routing, OSPF redistribution, and service-specific access policies.
