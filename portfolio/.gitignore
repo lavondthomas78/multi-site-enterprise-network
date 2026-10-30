@@ -1,0 +1,10 @@
+# Local machine and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.env
+.env.*
+# Keep private credential notes out of the repository
+private/
+credentials/

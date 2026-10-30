@@ -1,3 +1,11 @@
+# Multi-Site Enterprise Network
+
+**October 29, 2026 update:** [View the three-stage network portfolio](portfolio/README.md): Royal campus/branch, Enterprise campus, and the completed integrated Intersite-Lab, with its final topology and routing/firewall record.
+
+The original implementation record below describes the earlier campus/branch baseline. Its future-hardening notes belong to that earlier version; see the integrated portfolio for the later firewall work.
+
+---
+
 # # multi-site-enterprise-network
 ## Overview
 
