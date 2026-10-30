@@ -2,6 +2,10 @@
 
 **Role in portfolio:** The second standalone design, later integrated with Royal campus and branch.
 
+![Original standalone topology](images/original-enterprise-topology.png)
+
+Original owner-provided screenshot of `Royal-Technology-Solutions-Enterprise-Network.pkt`, showing the standalone four-floor Enterprise design, core/distribution links, departmental data and voice networks, and server room. This predates the integrated Enterprise perimeter firewall/edge-router addition.
+
 ## Design scope
 
 A four-floor network uses an OSPF core, multilayer distribution switches, departmental access switches, and HSRP virtual gateways. Enterprise data networks occupy /26 subnets within 192.168.10.0/24 through 192.168.12.0/24. Voice networks occupy /26 subnets within 192.168.13.0/24 through 192.168.15.0/24.
@@ -23,6 +27,6 @@ The original Enterprise network was connected to the simulated cloud/provider se
 
 ## Original artifacts
 
-Older Enterprise `.pkt` candidates were located, but the final original for this portfolio has not yet been confirmed. Its approved standalone screenshot and `.pkt` file still need to be attached. Older candidates are not silently substituted for the completed original.
+The standalone topology screenshot is included above. The corresponding final `.pkt` binary still needs to be attached; the supplied `.pkt.png` file is an image, not an executable Packet Tracer project. Existing older files are not substituted for this final original.
 
 [Back to portfolio](../../README.md)

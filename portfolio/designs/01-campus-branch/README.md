@@ -2,6 +2,10 @@
 
 **Role in portfolio:** The first standalone design, later incorporated into the integrated lab.
 
+![Original standalone topology](images/original-campus-branch-topology.png)
+
+Original owner-provided screenshot of `Royal Enterprise network.pkt`, showing the Royal main campus, branch, server segment, cloud mail segment, and ROYAL-FW01. The branch student subnet is shown as 192.168.10.0/24 before its integration renumbering.
+
 ## Design scope
 
 Departmental campus networks use 192.168.1.0/24 through 192.168.8.0/24. The branch staff network uses 192.168.9.0/24. MAIN-RTR provides campus router-on-a-stick routing and DHCP; BRANCH-RTR serves the branch. RIP version 2 connects the campus and branch routing domains. The site perimeter uses ROYAL-FW01 toward CLOUD-RTR.
@@ -16,6 +20,6 @@ These are the latest integrated values from the operational record. They are not
 
 ## Original artifacts
 
-The owner reports the original design complete. Its final standalone screenshot and approved `.pkt` file still need to be attached here so reviewers can see the original before integration. An image cropped from the integrated lab should not be labeled as an original screenshot.
+The standalone topology screenshot is included above. The corresponding final `.pkt` binary still needs to be attached; the supplied `.pkt.png` file is an image, not an executable Packet Tracer project. Existing older files are not substituted for this final original.
 
 [Back to portfolio](../../README.md)

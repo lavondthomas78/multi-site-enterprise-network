@@ -4,6 +4,16 @@
 
 Two independently completed network designs became one integrated campus, branch, and Enterprise lab. This portfolio shows the original design scopes and the integration work that made cross-site web access, email, and calling work through site firewalls.
 
+## Design 1 — Original Royal campus and branch
+
+![Original Royal campus and branch topology](designs/01-campus-branch/images/original-campus-branch-topology.png)
+
+## Design 2 — Original Enterprise campus
+
+![Original Enterprise campus topology](designs/02-enterprise/images/original-enterprise-topology.png)
+
+## Design 3 — Integrated Intersite-Lab
+
 ![Final integrated Packet Tracer topology](designs/03-integrated/images/final-intersite-topology.png)
 
 ## Three designs, one engineering story
@@ -14,7 +24,7 @@ Two independently completed network designs became one integrated campus, branch
 | 2 | Enterprise campus | Four-floor topology, OSPF core, /26 VLANs, HSRP gateways, services and voice | [Enterprise](designs/02-enterprise/README.md) |
 | 3 | Integrated Intersite-Lab | Combine both networks; add Enterprise firewall and edge router; validate cross-site services | [Integrated design](designs/03-integrated/README.md) |
 
-The existing repository contains an earlier campus/branch README, topology evidence, and a `.pkt` file. The two completed standalone versions and final integrated `.pkt` still need owner confirmation before attachment. The integrated screenshot above is the actual final topology provided by the project owner; standalone designs are described from the project record rather than presented as newly verified file exports.
+All three screenshots are actual Packet Tracer captures supplied by the project owner. The original campus/branch capture shows `Royal Enterprise network.pkt`; the original Enterprise capture shows `Royal-Technology-Solutions-Enterprise-Network.pkt`; the integrated capture shows `Royal-1-InterSite-Lab.pkt`. These are screenshots of the files, not the `.pkt` files themselves. The three corresponding final project binaries are still pending attachment; an older project file and evidence remain in the repository.
 
 ## What I implemented
 
