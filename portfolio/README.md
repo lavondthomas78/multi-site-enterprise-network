@@ -1,4 +1,4 @@
-# Royal Technology Solutions | Network Design & Integration Portfolio
+# Royal-1 Technology Solutions | Network Design & Integration Portfolio
 
 **LaVon Thomas · Cisco Packet Tracer · Completed October 29, 2026**
 
